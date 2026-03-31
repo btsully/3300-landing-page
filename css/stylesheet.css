@@ -2,7 +2,7 @@
 
 :root {
   --color-primary: #1B3A5C;
-  --color-accent: #1B6B5E;
+  --color-accent: #2A9D8F;
   --color-accent-light: #E2F0EE;
   --color-bg: #F4F7F9;
   --color-white: #FFFFFF;
@@ -193,7 +193,7 @@ h2 {
 }
 
 .skill-tag--technical {
-  background-color: var(--color-primary);
+  background-color: var(--color-accent);
   color: var(--color-white);
 }
 
@@ -235,7 +235,7 @@ h2 {
   margin-top: 0.85rem;
   padding: 0.2rem 0.7rem;
   background-color: var(--color-accent-light);
-  color: var(--color-accent);
+  color: var(--color-primary);
   border-radius: 999px;
   font-size: 0.8rem;
   font-weight: 600;
